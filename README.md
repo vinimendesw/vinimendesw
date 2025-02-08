@@ -24,4 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nylvhwjm2ig4k2csai62lm5xaa)
+
 ###
