@@ -24,6 +24,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nylvhwjm2ig4k2csai62lm5xaa)
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Vinicius Alexandre">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Vinicius%20Alexandre&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
