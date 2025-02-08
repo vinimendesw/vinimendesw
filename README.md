@@ -7,7 +7,9 @@
 ###
 
 <div align="center">
-  <img height="70" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinimendesw&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinimendesw&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinimendesw&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -26,10 +28,20 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Vinicius Alexandre">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Vinicius%20Alexandre&count=5&unique=false" alt="Spotify recently played"  />
+<h2 align="left">Redes Sociais</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/_vini92" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="70" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 
 ###
