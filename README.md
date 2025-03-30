@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📗Estudante de Engenharia de Software | 1º Periodo <br>💾 Estudando Java<br>🔐 Cybersegurança</p>
+<p align="left">📗Estudante de Engenharia de Software | 1º Periodo <br>💾 Estudando atuamente gerenciamento de projetos<br>🔐 Cybersegurança</p>
 
 ###
 
